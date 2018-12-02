@@ -1,3 +1,10 @@
+
+![javascript-illustration](https://user-images.githubusercontent.com/31435126/49341249-1309d300-f68e-11e8-9470-e5cf1164a504.png)
+
+
+
+
+
 # JavaScript
 
 JavaScript (/ˈdʒɑːvəˌskrɪpt/), often abbreviated as JS, is a high-level, interpreted programming language. It is a language which is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm.
